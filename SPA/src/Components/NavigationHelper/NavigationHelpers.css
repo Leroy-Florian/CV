@@ -1,0 +1,12 @@
+.key-Content {
+    border-style: solid;
+}
+
+.key-container {
+    display: block;
+}
+
+.key-container div:first-child {
+    justify-content: center
+}
+
